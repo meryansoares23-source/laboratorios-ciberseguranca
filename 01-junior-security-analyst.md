@@ -38,7 +38,6 @@ Aprendi a analisar alertas críticos, investigar acessos suspeitos e compreender
 
 Status
 
-Em andamento — atualizar após concluir o laboratório.
 
 Fonte
 
